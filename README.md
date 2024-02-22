@@ -7,6 +7,6 @@
 
 > 若在使用时出现问题，请检查ZIP是否存在文件夹套娃，或游戏语言是否为`简体中文（中国大陆）`！
 
-本作品采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 许可协议进行许可。
+本作品采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议进行许可。
 
 转载务必附上作者，禁止商业用途的转载与发布。
